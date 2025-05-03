@@ -1,4 +1,4 @@
-A simple game created in 3-4 hours for a game jam.
+A simple game created in 3-4 hours for the game jam: "Blink and you'll miss it"
 The concept: press the correct key, and it gets faster with each round.
 
 Future plans:
