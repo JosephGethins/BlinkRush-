@@ -1,0 +1,14 @@
+C:\Users\josep\Desktop\blink and you miss it\BlinkRush\bin\Debug\net9.0\BlinkRush.exe
+C:\Users\josep\Desktop\blink and you miss it\BlinkRush\bin\Debug\net9.0\BlinkRush.deps.json
+C:\Users\josep\Desktop\blink and you miss it\BlinkRush\bin\Debug\net9.0\BlinkRush.runtimeconfig.json
+C:\Users\josep\Desktop\blink and you miss it\BlinkRush\bin\Debug\net9.0\BlinkRush.dll
+C:\Users\josep\Desktop\blink and you miss it\BlinkRush\bin\Debug\net9.0\BlinkRush.pdb
+C:\Users\josep\Desktop\blink and you miss it\BlinkRush\obj\Debug\net9.0\BlinkRush.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josep\Desktop\blink and you miss it\BlinkRush\obj\Debug\net9.0\BlinkRush.AssemblyInfoInputs.cache
+C:\Users\josep\Desktop\blink and you miss it\BlinkRush\obj\Debug\net9.0\BlinkRush.AssemblyInfo.cs
+C:\Users\josep\Desktop\blink and you miss it\BlinkRush\obj\Debug\net9.0\BlinkRush.csproj.CoreCompileInputs.cache
+C:\Users\josep\Desktop\blink and you miss it\BlinkRush\obj\Debug\net9.0\BlinkRush.dll
+C:\Users\josep\Desktop\blink and you miss it\BlinkRush\obj\Debug\net9.0\refint\BlinkRush.dll
+C:\Users\josep\Desktop\blink and you miss it\BlinkRush\obj\Debug\net9.0\BlinkRush.pdb
+C:\Users\josep\Desktop\blink and you miss it\BlinkRush\obj\Debug\net9.0\BlinkRush.genruntimeconfig.cache
+C:\Users\josep\Desktop\blink and you miss it\BlinkRush\obj\Debug\net9.0\ref\BlinkRush.dll
